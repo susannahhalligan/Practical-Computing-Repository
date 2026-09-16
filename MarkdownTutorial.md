@@ -42,5 +42,5 @@ http://brewerlab.net - automatic
 
 ## IMAGES
 
-![Minecraft User Skin](https://static.wikitide.net/atwmcwiki/4/45/Junavere_Skin.png?20250518080730)
+![Minecraft User Skin](https://static.wikitide.net/atwmcwiki/4/45/Junavere_Skin.png)
 

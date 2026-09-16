@@ -44,3 +44,15 @@ http://brewerlab.net - automatic
 
 ![Minecraft User Skin](https://static.wikitide.net/atwmcwiki/4/45/Junavere_Skin.png)
 
+![Fat tortoise Taking a nap](./TrtoiseFatNap.jpg)
+
+## BACKSLASH ESCAPES
+
+\*Literal asterisks\*
+
+## FENCED CODE BLOCKS
+```
+echo "Hello"
+```
+
+

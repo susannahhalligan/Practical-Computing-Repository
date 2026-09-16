@@ -79,3 +79,7 @@ First header | Second header
 Content column 1 row 1 | Content column 2 row 1
 Content column 1 row 2 | Content column 2 row 2
 
+## EMOJI
+
+:snake:
+:duck:

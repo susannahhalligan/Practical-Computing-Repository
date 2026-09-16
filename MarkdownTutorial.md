@@ -65,5 +65,10 @@ print("Hello")
 x <- 4^2
 ```
 
+## TASK LISTS
 
+- [ ] this is an incomplete task
+- [x] this is a complete task
+- [x] @mentions, #references, [links](), **formatting**, and <del>tags</del>, and ~more formatting
+- [x] list syntax required (ordered or unordered)
 
